@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">ZevTV logo</title>
+  <desc id="desc">A modern blue and cyan ZevTV broadcast logo with a stylized Z inside a rounded TV frame.</desc>
+  <defs>
+    <linearGradient id="zv" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1976ff"/>
+      <stop offset="1" stop-color="#00c8ff"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(24 28)">
+    <rect x="0" y="0" width="304" height="304" rx="70" fill="#0b1020"/>
+    <rect x="18" y="18" width="268" height="268" rx="54" fill="url(#zv)"/>
+    <path d="M78 82h148l-91 82h91l-54 58H77l91-82H78z" fill="#fff"/>
+    <circle cx="238" cy="68" r="10" fill="#fff" opacity=".9"/>
+    <path d="M96 306l-22 28h28l22-28M214 306l-22 28h28l22-28" fill="#0b1020"/>
+  </g>
+  <text x="375" y="238" font-family="Arial, Helvetica, sans-serif" font-size="178" font-weight="800" letter-spacing="-8" fill="#0b1020">Zev</text>
+  <text x="790" y="238" font-family="Arial, Helvetica, sans-serif" font-size="178" font-weight="800" letter-spacing="-8" fill="url(#zv)">TV</text>
+</svg>
