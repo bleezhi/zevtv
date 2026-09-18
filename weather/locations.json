@@ -1,0 +1,11 @@
+{
+  "update_minutes": 15,
+  "units": "metric",
+  "locations": [
+    {"name": "Poznan", "latitude": 52.4064, "longitude": 16.9252},
+    {"name": "Warsaw", "latitude": 52.2297, "longitude": 21.0122},
+    {"name": "Wroclaw", "latitude": 51.1079, "longitude": 17.0385},
+    {"name": "Krakow", "latitude": 50.0647, "longitude": 19.9450},
+    {"name": "Gdansk", "latitude": 54.3520, "longitude": 18.6466}
+  ]
+}
